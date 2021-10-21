@@ -5,5 +5,5 @@
         "noEmit": true,
         "tsBuildInfoFile": "tsconfig.tsbuildinfo"
     },
-    "include": ["."]
+    "include": [".", "./utils"]
 }
